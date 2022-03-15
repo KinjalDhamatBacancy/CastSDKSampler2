@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182294086956",
+    "project_id": "cast-app-e2bbe",
+    "storage_bucket": "cast-app-e2bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182294086956:android:04ac163d2d9b1105d49889",
+        "android_client_info": {
+          "package_name": "com.connectsdk.sampler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182294086956-2lr6cqble1h6e1sv5934jdqvbfnterml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeK2u0FzzcGr16_Qtx3P2m6IXzf5ILI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182294086956-2lr6cqble1h6e1sv5934jdqvbfnterml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
